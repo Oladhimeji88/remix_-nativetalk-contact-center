@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NativeTalk Contact Center",
+  "description": "Enterprise-grade cloud communications and contact center SaaS platform for progressive dialing, SIP trunks, call recording, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
